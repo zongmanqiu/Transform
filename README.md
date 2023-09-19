@@ -1,6 +1,6 @@
 # Transform: 用于数据转换的SPSS宏   
 # Transform: SPSS macro for data transformation 
-*Copyright (C) 2022-2023 by Qiu Zongman    
+*Copyright (C) 2020-2023 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
 *Research Gate: Zongman Qiu    
