@@ -6,7 +6,7 @@
 *Research Gate: Zongman Qiu    
 *Bilibili: 邱宗满 (ID: 423767625)    
 *微信公众号: 邱宗满 (ID: qiuzongman2020)    
-*项目托管在Github和Gitee: 
+*项目托管在Github和Gitee:    
 *https://github.com/zongmanqiu/transform   
 *https://gitee.com/qiuzongman/Transform    
    
