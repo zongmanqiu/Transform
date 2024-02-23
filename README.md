@@ -1,14 +1,29 @@
 # Transform: 用于数据转换的SPSS宏   
 # Transform: SPSS macro for data transformation 
-*Copyright (C) 2020-2023 by Qiu Zongman    
+*Copyright (C) 2020-2024 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
 *Research Gate: Zongman Qiu    
 *Bilibili: 邱宗满 (ID: 423767625)    
 *微信公众号: 邱宗满 (ID: qiuzongman2020)    
-*项目托管在Github: https://github.com/zongmanqiu/transform   
-    
+*项目托管在Github和Gitee: 
+*https://github.com/zongmanqiu/transform   
+*https://gitee.com/qiuzongman/Transform    
+   
 # 更新日志    
+## [4.1.0] - 2024-2-24    
+### 增加    
+*个案分析    
+*排序    
+*另存为    
+*异常值    
+*插补    
+### 改动    
+*扩充“分组”功能    
+*“截断”合并到“四舍五入”的“去尾法”，并增加进一法    
+*页面布局改动    
+### 删除    
+*数学函数    
 ## [4.0.1] - 2023-10-1    
 ### 改动    
 *均分、总分、连乘与合并类别变量等4个多变量合一的功能，新变量名的生成固定采用前5个变量名    
